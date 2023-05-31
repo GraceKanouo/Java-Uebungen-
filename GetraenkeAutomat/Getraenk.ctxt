@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Getraenk
+comment0.text=\r\n\ Die\ Klasse\ dient\ als\ Basis\ fuer\ konkrete\ Getraenkeklassen.\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Gibt\ eine\ String\ Repraesentation\ des\ Getraenks\ zurueck.\r\n\ \r\n\ @return\ Die\ String-Darstellung\ des\ Getraenks.\r\n
+numComments=2

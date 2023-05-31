@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Wasser
+comment0.text=\r\n\ Die\ Klasse\ dient\ als\ Basis\ fuer\ konkrete\ Getraenkeklassen.\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=Wasser()
+comment2.params=hersteller\ quelle
+comment2.target=Wasser(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getQuelle()
+comment4.params=quelle
+comment4.target=void\ setQuelle(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

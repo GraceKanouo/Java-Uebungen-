@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ConditionateInterface
+comment0.text=\r\n\ Die\ Schnittstelle\ ConditionateInterface\ erweitert\ \r\n\ das\ Interface\ MyFunction\ und\ bietet\ die\ Standardmethoden\ \r\n\ conditionateInput\ und\ conditionateOutput,\ die\ die\ \r\n\ Anwendung\ von\ Praedikaten\ (Predicate<Integer>)\ auf\ die\ \r\n\ Eingabe-\ bzw.\ Ausgabewerte\ einer\ Funktion\ ermoeglichen.\r\n\ \r\n\r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 09.05.23\r\n
+comment1.params=predicate
+comment1.target=ConditionateInterface\ conditionateInput(java.util.function.Predicate)
+comment1.text=\r\n\ Wendet\ das\ gegebene\ Praedikat\ auf\ den\ Eingabewert\ \r\n\ einer\ Funktion\ an\ und\ gibt\ das\ Ergebnis\r\n\ der\ Funktion\ zurueck,\ wenn\ das\ Praedikat\ erfuellt\ ist.\ \r\n\ Andernfalls\ wird\ 0\ zurueckgegeben.\r\n\ \r\n\ @param\ predicate\ Das\ Praedikat,\ das\ auf\ den\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Eingabewert\ angewendet\ wird\r\n\ @return\ Eine\ ConditionateInterface-Funktion,\ \r\n\ \ \ \ \ \ \ \ \ die\ das\ Praedikat\ auf\ den\ Eingabewert\ anwendet\r\n
+comment2.params=predicate
+comment2.target=ConditionateInterface\ conditionateOutput(java.util.function.Predicate)
+comment2.text=\r\n\ Wendet\ das\ gegebene\ Praedikat\ auf\ den\ Ausgabewert\ \r\n\ einer\ Funktion\ an\ und\ gibt\ das\ Ergebnis\r\n\ der\ Funktion\ zurueck,\ wenn\ das\ Praedikat\ erfuellt\ ist.\ \r\n\ Andernfalls\ wird\ 0\ zurueckgegeben.\r\n\ \r\n\ @param\ predicate\ Das\ Praedikat,\ das\ auf\ den\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Ausgabewert\ angewendet\ wird\r\n\ @return\ Eine\ ConditionateInterface-Funktion,\ \r\n\ \ \ \ \ \ \ \ \ die\ das\ Praedikat\ auf\ den\ Ausgabewert\ anwendet\r\n
+numComments=3

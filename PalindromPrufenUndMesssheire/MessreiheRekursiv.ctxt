@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MessreiheRekursiv
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ MessreiheRekursiv.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=data
+comment1.target=MessreiheRekursiv(java.lang.String[])
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ die\ rekursive\ Messreihe.\r\n\r\n\ @param\ strings\ die\ Liste\ von\ Strings,\ die\ von\ der\ Messreihe\ verwaltet\ werden\ soll.\r\n
+comment2.params=
+comment2.target=int[]\ countWortlaenge()
+comment2.text=\r\n\ Ermittelt\ die\ L\u00E4nge\ jedes\ Wortes\ in\ der\ Messreihe\ rekursiv.\r\n\r\n\ @return\ ein\ Array\ mit\ den\ L\u00E4ngen\ der\ W\u00F6rter.\r\n
+comment3.params=i\ wortlaenge
+comment3.target=int[]\ countWortlaengeRec(int,\ int[])
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

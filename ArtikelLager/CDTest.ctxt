@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CDTest
+comment0.text=\r\n\ Eine\ Klasse\ zum\ Testen\ der\ CD-Klasse.\r\n\r\n\ @author\ (Grace\ Ntiwa\ Kanou\ &\ Sandra\ Hussong)\ \r\n\ @version\ (16.01.2023)\r\n
+comment1.params=
+comment1.target=void\ testGetInterpret_erwarte_interpret_wird_ausgegeben()
+comment2.params=
+comment2.target=void\ testGetTitel_erwarte_titel_wird_ausgegeben()
+comment3.params=
+comment3.target=void\ testGetAnzahlTitel_erwarte_titelanzahl_wird_ausgegeben()
+comment4.params=
+comment4.target=void\ testGetBeschreibung_erwarte_beschreibung_wird_ausgegeben()
+comment5.params=
+comment5.target=void\ testEquals_gleiche_Attribute_erwartet_true()
+comment6.params=
+comment6.target=void\ testEquals_verschiedene_Attribute_erwartet_false()
+comment7.params=
+comment7.target=void\ testSetInterpret_interpret_fehlt_erwarte_exception()
+comment8.params=
+comment8.target=void\ testSetTitel_albumtitel_fehlt_erwarte_exception()
+comment9.params=
+comment9.target=void\ testSetAnzahlTitel_titelanzahl_fehlt_erwarte_exception()
+numComments=10

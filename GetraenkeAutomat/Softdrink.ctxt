@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Softdrink
+comment0.text=\r\n\ Die\ Klasse\ Softdrink\ erm\u00F6eglicht\ die\ Erzeugung\ eines\ \r\n\ Softdrink-Objekts.\r\n\ \r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=Softdrink()
+comment1.text=\r\n\ Ein\ Konstruktor\ ohne\ Parameter.\r\n\ Ruft\ den\ Konstruktor\ der\ Elternklasse\ auf\ und\ setzt\ \r\n\ das\ Attribut\ zuckergehalt\ auf\ den\ Standardwert\ 0.\r\n
+comment2.params=hersteller\ zuckergehalt
+comment2.target=Softdrink(java.lang.String,\ float)
+comment2.text=\r\n\ Konstruktor\ fuer\ die\ Klasse\ Softdrink.\r\n\ Ruft\ den\ Konstruktor\ der\ Elternklasse\ auf\ und\ \r\n\ initialisiert\ das\ Attribut\ zuckergehalt.\r\n\ \r\n\ @param\ hersteller\ \ \ Der\ Hersteller\ des\ Softdrinks\r\n\ @param\ zuckergehalt\ Der\ Zuckergehalt\ des\ Softdrinks\r\n\ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ Der\ Zuckergehalt\ negativ\ ist\r\n
+comment3.params=
+comment3.target=float\ getZuckergehalt()
+comment4.params=zuckergehalt
+comment4.target=void\ setZuckergehalt(float)
+comment4.text=\r\n\ Setter-Methode\ fuer\ das\ Attribut\ zuckergehalt.\r\n\ Ueberprueft,\ ob\ der\ Zuckergehalt\ positiv\ ist.\r\n\ \r\n\ @param\ zuckergehalt\ Der\ Zuckergehalt\ des\ Softdrinks\r\n\ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ der\ Zuckergehalt\ des\ Softdrinks\ ungueltig,\r\n\ \ \ \ \ \ \ \ \ d.h.\ unter\ 0\ liegt.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Gibt\ eine\ String-Repraesentation\ des\ Softdrinks\ zurueck.\r\n\ \r\n\ @return\ Die\ String-Repraesentation\ des\ Softdrinks\r\n
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

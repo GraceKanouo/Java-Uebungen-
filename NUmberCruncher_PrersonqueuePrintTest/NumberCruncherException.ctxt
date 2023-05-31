@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NumberCruncherException
+comment0.text=\r\nDie\ Klasse\ NumberCruncherException\ ist\ ein\ benutzer\ Definierte\ Ausnahme\ Klasse\r\n@throws\ Exception\ wenn\ eine\ Falsche\ Eingabe\ irgendwo\ bemerkt\ wird\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=message
+comment1.target=NumberCruncherException(java.lang.String)
+comment2.params=
+comment2.target=NumberCruncherException()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Palindrom
+comment0.text=\r\n\ Das\ Interface\ definiert\ eine\ Methode\ zum\ Ueberpruefen,\ \r\n\ ob\ ein\ String\ ein\ Palindrom\ ist.\r\n\ Das\ hei\u00DFt,\ dass\ ein\ Wort\ o.\ Satz\ rueckwaerts\ gelesen\ \r\n\ das\ gleiche\ Wort\ bzw.\ den\ gleichen\ Satz\ ergibt\ wie\ \r\n\ vorwaerts\ gelesen.\r\n\ Beispiele\ hierfuer\ sind\:\ "Anna",\ "Rentner",\ "Ebbe",\r\n\ \r\n\ @author\ (Grace\ D.\ Ntiwa\ Kanou)\ \r\n\ @author\ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (23.04.23)\r\n
+comment1.params=wort
+comment1.target=boolean\ istPalindrom(java.lang.String)
+numComments=2

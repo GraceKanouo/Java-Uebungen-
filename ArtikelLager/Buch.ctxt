@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Buch
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Buch.\r\n\ \r\n\ @author\ (Grace\ Ntiwa\ Kanou\ &\ Sandra\ Hussong)\ \r\n\ @version\ (16.01.2023)\r\n
+comment1.params=artikelNr\ bestand\ preis\ titel\ autor\ verlag
+comment1.target=Buch(int,\ int,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ \r\n
+comment10.params=buchObjekt
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ getAutor()
+comment3.params=
+comment3.target=java.lang.String\ getTitel()
+comment4.params=
+comment4.target=java.lang.String\ getVerlag()
+comment5.params=
+comment5.target=java.lang.String\ getBeschreibung()
+comment6.params=verlag
+comment6.target=void\ setVerlag(java.lang.String)
+comment7.params=titel
+comment7.target=void\ setTitel(java.lang.String)
+comment8.params=autor
+comment8.target=void\ setAutor(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\r\n\ \r\n
+numComments=11

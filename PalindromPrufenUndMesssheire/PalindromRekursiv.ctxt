@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PalindromRekursiv
+comment0.text=\r\n\ Die\ Klasse\ implementiert\ das\ Palindrom-Interface\ und\ ueberprueft,\r\n\ ob\ ein\ uebergebener\ String\ ein\ Palindrom\ ist,\ \r\n\ indem\ sie\ eine\ rekursive\ Methode\ verwendet.\r\n\ \r\n\ @author\ (Grace\ \ D.\ Ntiwa\ Kanou)\r\n\ @author\ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (23.04.23)\r\n
+comment1.params=wort
+comment1.target=boolean\ istPalindrom(java.lang.String)
+comment1.text=\r\n\ Zunaechst\ prueft\ die\ Methode,\ ob\ der\ String\ weniger\ als\ 2\ Zeichen\ hat.\ \r\n\ Ist\ das\ der\ Fall,\ handelt\ es\ sich\ um\ ein\ Palindrom.\r\n\ Hat\ der\ String\ mehr\ als\ 2\ Zeichen,\ werden\ das\ erste\ und\ letzte\ Zeichen\ \r\n\ auf\ Gleichheit\ geprueft.\r\n\ Sind\ sie\ gleich,\ wird\ der\ restliche\ String\ rekursiv\ geprueft.\ \r\n\ Sind\ sie\ nicht\ gleich,\ ist\ der\ String\ kein\ Palindrom.\r\n\ \r\n\ @param\ wort\ Der\ zu\ ueberpruefende\ String\r\n\ \r\n\ @return\ true,\ \ wenn\ der\ String\ ein\ \ Palindrom\ ist\r\n\ @return\ false,\ wenn\ der\ String\ kein\ Palindrom\ ist\r\n\ \r\n
+numComments=2

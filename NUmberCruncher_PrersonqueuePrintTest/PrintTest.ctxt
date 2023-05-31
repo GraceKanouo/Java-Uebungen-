@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrintTest
+comment0.text=\r\n\ Die\ Klasse\ PrintTest\ ermoeglicht\ es\ die\ Funktionalitaet\r\n\ der\ Methoden\ print()\ und\ toString()\ aus\ der\ \r\n\ PersonQueue-Klasse\ zu\ testen.\r\n\ \r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou)\r\n\ @author\ \ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (01.05.23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

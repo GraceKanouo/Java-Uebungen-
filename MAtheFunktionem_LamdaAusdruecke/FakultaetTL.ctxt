@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FakultaetTL
+comment0.text=\r\n\ Die\ Klasse\ berechnet\ die\ Fakultaet\r\n\ einer\ Zahl.\r\n\r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 09.05.23\r\n
+comment1.params=
+comment1.target=FakultaetTL()
+comment1.text=\r\n\ Der\ Konstrunkter\ verhindert\ die\ Erzeugung\ eines\r\n\ FakultaetTL-Objekts.\r\n
+comment2.params=i
+comment2.target=int\ apply(int)
+comment2.text=\r\n\ apply\ Berechnet\ die\ Fakultaet\ einer\ Zahl\ i.\r\n\r\n\ @param\ i\ Eine\ Zahl\r\n\ @return\ \ Das\ Ergebnis\ der\ Berechnung\r\n\ \ \ \ \ \ \ \ \ \ mit\ dem\ Wert\ i.\r\n
+numComments=3

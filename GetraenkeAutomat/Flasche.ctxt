@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Flasche
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=Flasche()
+comment2.params=getraenk
+comment2.target=void\ fuellen(Getraenk)
+comment2.text=\r\n\ fuellen\ \r\n\ \r\n\ @param\ getraenk\ \r\n
+comment3.params=
+comment3.target=void\ leeren()
+comment3.text=\r\n\ leeren\ \r\n
+comment4.params=
+comment4.target=boolean\ istGefuellt()
+comment5.params=
+comment5.target=Getraenk\ getInhalt()
+comment6.params=inhalt
+comment6.target=void\ setInhalt(Getraenk)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

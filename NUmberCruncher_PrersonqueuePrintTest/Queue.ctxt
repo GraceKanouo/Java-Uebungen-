@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Das\ Interface\ Queue\ definiert\ Methoden\ zum\ Einfuegen,\ Entfernen\ und\ Zugreifen\ auf\r\n\ Elemente\ in\ einer\ Warteschlange.\r\n\ Objekte\ koennen\ hinten\ angehaengt\ und\ das\ erste\ Element\ entfernt\ werden.\r\n\ Zudem\ kann\ auf\ Elemente\ an\ bestimmten\ Positionen\ zugegriffen\ werden.\r\n\ Es\ ist\ moeglich,\ die\ Queue\ auf\ Vollstaendigkeit\ und\ Leere\ zu\ testen\ und\ die\r\n\ Anzahl\ der\ Elemente\ in\ der\ Queue\ zu\ ermitteln.\r\n\ \r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou)\r\n\ @author\ \ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (01.05.23)\r\n
+comment1.params=o
+comment1.target=void\ addLast(java.lang.Object)
+comment1.text=\r\n\ addLast\ Ermoeglicht\ das\ Anhaengen\ von\ Objekten\ an\ eine\ Queue,\r\n\ \ \ \ \ \ \ \ \ sofern\ diese\ nicht\ ihre\ maximale\ Kapazitaet\ erreicht\ \r\n\ \ \ \ \ \ \ \ \ hat.\r\n\r\n\ @param\ o\ Das\ Objekt,\ das\ angehaengt\ werden\ soll\r\n
+comment2.params=
+comment2.target=java.lang.Object\ removeFirst()
+comment2.text=\r\n\ removeFirst\ Entfernt\ das\ erste\ Objekt\ in\ der\ Queue\ und\ gibt\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ dieses\ zurueck,\ sofern\ die\ Queue\ nicht\ leer\ ist.\r\n\r\n\ @return\ Das\ entfernte\ Objekt\r\n
+comment3.params=i
+comment3.target=java.lang.Object\ get(int)
+comment3.text=\r\n\ get\ Gibt\ das\ Element\ an\ der\ Stelle\ i\ zurueck,\ sofern\ die\ Queue\r\n\ \ \ \ \ nicht\ leer\ ist.\r\n\r\n\ @param\ i\ Der\ Index\ eines\ Elementes\ in\ der\ Queue\r\n\ \r\n\ @return\ Das\ i'te\ Element\r\n
+comment4.params=
+comment4.target=boolean\ empty()
+comment4.text=\r\n\ empty\ Testet,\ ob\ die\ Queue\ leer\ ist.\r\n\r\n\ @return\ true,\ wenn\ die\ Queue\ leer\ ist,\ ansonsten\ false\r\n
+comment5.params=
+comment5.target=boolean\ full()
+comment5.text=\r\n\ full\ Testet,\ ob\ die\ Queue\ voll\ ist.\r\n\r\n\ @return\ true,\ wenn\ die\ Queue\ voll\ ist,\ ansonsten\ false\r\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\r\n\ size\ Ermittel\ die\ Anzahl\ der\ Elemente\ in\ der\ Queue.\r\n\r\n\ @return\ Die\ Anzahl\ der\ Elemente\r\n
+numComments=7

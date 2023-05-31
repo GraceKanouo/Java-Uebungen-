@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GGTRechner
+comment0.text=\r\n\ Eine\ Klasse,\ die\ mit\ Hilfe\ des\ euklidischen\ Algorithmus,den\ groe\u00DFten\ gemeinsamen\ \r\n\ Teiler\ (ggT)\ berechnet,\ indem\ sie\ wiederholt\ den\ Modulowert\ von\ a\ und\ b\ berechnet,\r\n\ bis\ der\ kleinere\ Wert\ b\ Null\ wird\ und\ der\ groe\u00DFere\ Wert\ a\ dem\ ggT\ entspricht.\r\n\ \r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou\ &\ Sandra\ R.\ Hussong)\ \r\n\ @version\ (20.04.23)\r\n
+comment1.params=
+comment1.target=GGTRechner()
+comment1.text=\r\n\ Konstruktor,\ der\ die\ Instanziierung\ eines\ GGT-Objekts\ verhindert.\r\n
+comment2.params=a\ b
+comment2.target=int\ berechneGgt(int,\ int)
+comment2.text=\r\n\ Berechnet\ mit\ Hilfe\ des\ euklidischen\ Algorithmus\ den\ groe\u00DFten\ gemeinsamen\r\n\ Teiler\ (ggT)\ zweier\ natuerlicher\ Zahlen\ a\ und\ b.\r\n\r\n\ @param\ a\ Die\ erste\ \ natuerliche\ Zahl\r\n\ @param\ b\ Die\ zweite\ natuerliche\ Zahl\r\n\ \r\n\ @return\ Der\ groe\u00DFte\ gemeinsame\ Teiler\ von\ a\ und\ b\r\n\ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ a\ oder\ b\ keine\ natuerlichen\ Zahlen\ (d.h.\ <\=\ 0)\ sind\r\n
+numComments=3

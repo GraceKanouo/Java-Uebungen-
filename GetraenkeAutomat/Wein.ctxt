@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wein
+comment0.text=\r\n\ Die\ Klasse\ erm\u00F6eglicht\ die\ Erzeugung\ eines\ Wein-Objekts.\r\n\ Sie\ enthaelt\ zusaetzlich\ zum\ Alkoholgehalt\ das\ Weingut,\ \r\n\ von\ welchem\ der\ Wein\ stammt.\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=Wein()
+comment1.text=\r\n\ Ein\ Konstruktor\ fuer\ ein\ Wein-Objekt\ ohne\ Argumente.\ \r\n
+comment2.params=alkoholgehalt\ weingut
+comment2.target=Wein(float,\ java.lang.String)
+comment2.text=\r\n\ Konstruktor\ fuer\ ein\ Wein-Objekt\ mit\ Angabe\ des\ Alkoholgehalts\ und\ des\ Weinguts.\r\n\ \r\n\ @param\ alkoholgehalt\ Der\ Alkoholgehalt\ des\ Weins\r\n\ @param\ weingut\ \ \ \ \ \ \ Das\ Weingut,\ von\ dem\ der\ Wein\ stammt\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWeingut()
+comment4.params=weingut
+comment4.target=void\ setWeingut(java.lang.String)
+comment4.text=\r\n\ Setzt\ das\ Weingut\ des\ Weins.\r\n\ \r\n\ @param\ weingut\ Das\ Weingut,\ von\ dem\ der\ Wein\ stammt\r\n\ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ das\ Weingut\ nicht\ angegeben\ wurde\ \r\n\ \ \ \ \ \ \ \ \ (--->\ null\ oder\ leerer\ String)\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

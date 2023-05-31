@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bier
+comment0.text=\r\n\ Die\ Klasse\ Bier\ repraesentiert\ ein\ alkoholisches\ \r\n\ Getraenk\ vom\ Typ\ Bier.\ \r\n\ Ein\ Bier-Objekt\ enthaelt\ Informationen\ ueber\ den\ \r\n\ Alkoholgehalt\ und\ die\ Brauerei.\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=Bier()
+comment1.text=\r\n\ Ein\ Konstruktor\ ohne\ Parameter.\r\n
+comment2.params=alkoholgehalt\ brauerei
+comment2.target=Bier(float,\ java.lang.String)
+comment2.text=\r\n\ Ein\ Konstruktor\ mit\ Parametern.\r\n\r\n\ @param\ alkoholgehalt\ Der\ Alkoholgehalt\ des\ Biers\r\n\ @param\ brauerei\ \ \ \ \ \ Die\ Brauerei\ des\ Biers\r\n
+comment3.params=
+comment3.target=java.lang.String\ getBrauerei()
+comment4.params=brauerei
+comment4.target=void\ setBrauerei(java.lang.String)
+comment4.text=\r\n\ Setzt\ die\ Brauerei\ des\ Biers.\r\n\r\n\ @param\ brauerei\ Die\ Brauerei\ des\ Biers\r\n\ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ die\ uebergebene\ Brauerei\ null\ oder\ leer\ ist\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

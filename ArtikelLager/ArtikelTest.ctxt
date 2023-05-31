@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ArtikelTest
+comment0.text=\r\n\ Eine\ Klasse\ zum\ Testen\ der\ Artikel-Klasse.\r\n\r\n\ @author\ (Grace\ Ntiwa\ Kanou\ &\ Sandra\ Hussong)\ \r\n\ @version\ (16.01.2023)\r\n
+comment1.params=
+comment1.target=void\ testKonstruktorVoll_erwarte_erfolgreiche_erzeugung_eines_artikels()
+comment2.params=
+comment2.target=void\ testKonstruktorTeil_erwarte_erfolgreiche_erzeugung_eines_artikels()
+comment3.params=
+comment3.target=void\ testBucheZugang_erwarte_erfolgreichen_zugang()
+comment4.params=
+comment4.target=void\ testBucheAbgang_erwarte_erfolgreichen_abgang()
+comment5.params=
+comment5.target=void\ testToString_erwarte_string_repraesentation_von_artikel_objekt()
+comment6.params=
+comment6.target=void\ testBucheZugang_negativ_erwarte_exception()
+comment7.params=
+comment7.target=void\ testBucheAbgang_zu_hoch_erwarte_exception()
+comment8.params=
+comment8.target=void\ testSetPreis_negativ_erwarte_exception()
+numComments=9

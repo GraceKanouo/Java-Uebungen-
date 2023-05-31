@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Messreihe
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Messreihen.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=data
+comment1.target=Messreihe(java.lang.String[])
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ die\ Messreihe.\r\n\r\n\ @param\ strings\ Die\ Liste\ von\ Strings,\ die\ von\ der\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Messreihe\ verwaltet\ werden\ soll.\r\n
+comment2.params=
+comment2.target=int[]\ countWortlaenge()
+comment2.text=\r\n\ Ermittelt\ die\ L\u00E4nge\ jedes\ Wortes\ in\ der\ Messreihe.\r\n\r\n\ @return\ ein\ Array\ mit\ den\ L\u00E4ngen\ der\ W\u00F6rter.\r\n\ \r\n
+comment3.params=
+comment3.target=int\ size()
+comment3.text=\r\n\ Gibt\ die\ Anzahl\ der\ Strings\ in\ der\ Messreihe\ zur\u00FCck.\r\n\r\n\ @return\ die\ Anzahl\ der\ Strings.\r\n
+numComments=4

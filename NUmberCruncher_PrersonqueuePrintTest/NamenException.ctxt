@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NamenException
+comment0.text=\r\n\ Die\ NamenException\ kann\ bei\ ungueltigen\ Eingaben\ bezueglich\r\n\ des\ Namens\ einer\ Person\ verwendet\ werden.\r\n\ Beispiele\ f\u00FCr\ eine\ ungueltige\ Eingabe\ sind\:\r\n\ Emily486,\ -Laura,\ Louisa-,\ usw.\r\n\ \r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou)\r\n\ @author\ \ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (01.05.23)\r\n
+comment1.params=message
+comment1.target=NamenException(java.lang.String)
+numComments=2

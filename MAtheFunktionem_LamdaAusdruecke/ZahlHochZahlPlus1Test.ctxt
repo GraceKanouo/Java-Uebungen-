@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ZahlHochZahlPlus1Test
+comment0.text=\r\n\ Die\ Klasse\ tetest\ die\ Funktionalitaet\ der\ \r\n\ ZahlHochZahlPlus1-Funktionen.\r\n\r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 22.05.23\r\n
+comment1.params=
+comment1.target=void\ testApply_zahlHochZahlPlus1Anonym()
+comment2.params=
+comment2.target=void\ testApply_zahlHochZahlPlus1Lambda()
+numComments=3

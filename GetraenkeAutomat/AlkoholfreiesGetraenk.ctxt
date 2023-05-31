@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=AlkoholfreiesGetraenk
+comment0.text=\r\n\ Die\ Klasse\ erweitert\ die\ Klasse\ Getraenk\ und\ dient\ \r\n\ als\ Basis\ fuer\ konkrete\ Klassen\ alkoholfreier\ \r\n\ Getraenke\ (Bsp.\:\ Wasser,\ Softdrink).\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=AlkoholfreiesGetraenk()
+comment1.text=\r\n\ Konstruktor\ fuer\ ein\ alkoholfreies\ Getraenks\ \r\n\ ohne\ Hersteller.\r\n
+comment2.params=hersteller
+comment2.target=AlkoholfreiesGetraenk(java.lang.String)
+comment2.text=\r\n\ Konstruktor\ fuer\ ein\ alkoholfreies\ Getraenks\ mit\ \r\n\ Angabe\ eines\ Herstellers.\ \r\n\ \r\n\ @param\ hersteller\ Der\ Hersteller\ des\ Getraenks.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getHersteller()
+comment4.params=hersteller
+comment4.target=void\ setHersteller(java.lang.String)
+comment4.text=\r\n\ Setzt\ den\ Hersteller\ des\ Getraenks.\r\n\ \r\n\ @param\ hersteller\ Der\ Hersteller\ des\ Getraenks.\r\n\ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ der\ uebergebene\ Hersteller\ null\ oder\ \r\n\ \ \ \ \ \ \ \ \ leer\ ist.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Gibt\ eine\ String\ Repraesentation\ des\ alkoholfreien\ \r\n\ Getraenks\ zurueck.\r\n\ \r\n\ @return\ Eine\ String-Darstellung\ des\ Getraenks,\ \r\n\ \ \ \ \ \ \ \ \ ink.\ Hersteller\ und\ dem\ Hinweis,\ \r\n\ \ \ \ \ \ \ \ \ dass\ es\ alkoholfrei\ ist.\r\n
+numComments=6

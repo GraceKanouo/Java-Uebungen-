@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ueberpruefungen
+comment0.text=\r\n\ Die\ Klasse\ beinhaltet\ verschiedene\ Ueberpruefungen\r\n\ die\ in\ anderen\ Klassen\ aufgerufen\ werden\ koennen.\r\n\ \r\n\ Man\ kann\ beispielsweise\ testen,\ ob\ eine\ Zahl\ natuerlich\r\n\ ist.\r\n\r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 22.05.23\r\n
+comment1.params=zahl
+comment1.target=boolean\ istNatuerlicheZahl(int)
+comment1.text=\r\n\ istNatuerlicheZahl\ Prueft,\ ob\ eine\ Zahl\ natuerlich\ ist.\r\n\ \r\n\ @param\ zahl\ Die\ Zahl,\ die\ ueberprueft\ werden\ soll.\r\n
+comment2.params=zahl\ maxWert
+comment2.target=boolean\ istZahlImBereich(int,\ int)
+comment2.text=\r\n\ istZahlImBereich\ Prueft,\ ob\ die\ Eingabe\ einer\ Zahl\ den\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ maximalen\ INPUT-Wert\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ueberschreitet\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ @param\ zahl\ \ \ \ Die\ eingegebene\ Zahl\r\n\ @param\ maxWert\ Der\ maximale\ INPUT-Wert,\ der\ berechnet\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ werden\ kann.\r\n\ @return\ \ \ \ \ \ \ \ true,\ wenn\ Zahl\ kleiner\ als\ maxWert,\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ansinsten\ false\r\n
+comment3.params=
+comment3.target=int\ getMaxInputFakultaet()
+comment3.text=\r\n\ getMaxInputFakultaet\ Ermittelt,\ bei\ welchem\ Input\ es\ zu\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ einem\ Overflow\ kommt.\r\n\r\n\ @return\ Der\ maximal\ moegliche\ INPUT-Wert,\ der\ ohne\ \r\n\ \ \ \ \ \ \ \ \ Overflow\ berechnet\ werden\ kann.\r\n
+comment4.params=
+comment4.target=int\ getMaxInputQuadrat()
+comment4.text=\r\n\ getMaxInputQuadrat\ Ermittelt,\ bei\ welchem\ Input\ es\ zu\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ einem\ Overflow\ kommt.\r\n\r\n\ @return\ Der\ maximal\ moegliche\ INPUT-Wert,\ der\ ohne\ \r\n\ \ \ \ \ \ \ \ \ Overflow\ berechnet\ werden\ kann.\r\n
+comment5.params=
+comment5.target=int\ getMaxInputZahlHochZahlPlus1()
+comment5.text=\r\n\ getMaxInputZahlHochZahlPlus1\ Ermittelt,\ bei\ welchem\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Input\ es\ zu\ einem\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Overflow\ kommt.\r\n\r\n\ @return\ Der\ maximal\ moegliche\ INPUT-Wert,\ der\ ohne\ \r\n\ \ \ \ \ \ \ \ \ Overflow\ berechnet\ werden\ kann.\r\n
+comment6.params=
+comment6.target=int\ getMaxInputFibonacci()
+comment6.text=\r\n\ getMaxInputFibonacci\ Ermittelt,\ bei\ welchem\ Input\ es\ zu\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ einem\ Overflow\ kommt.\r\n\r\n\ @return\ Der\ maximal\ moegliche\ INPUT-Wert,\ der\ ohne\ \r\n\ \ \ \ \ \ \ \ \ Overflow\ berechnet\ werden\ kann.\r\n
+numComments=7

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MathFunctions
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ MathFunctions.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (Grace\ dinecha\ Ntiwa\ &&\ Sanda\ Hussong)\r\n
+comment1.params=zahl
+comment1.target=long\ berechneTeilersumme(long)
+comment1.text=\r\n\ diese\ mehode\ berechnet\ die\ Teilsumme\ eine\ natuerlische\ Zahl.\r\n\ @param\ \ type\ long\ teilsumme\r\n\ @\ param\ type\ long\ zahl.\r\n\ @return\ teilersumme.\r\n
+comment2.params=isbn
+comment2.target=java.lang.String\ berechneChecksummeIsbn(long)
+comment2.text=\r\n\ dieses\ Methode\ berechnet\ die\ Pr\u00FCfziffer\ einer\ ISBN-10.\r\n\ @param\ isbn\ bekommt\ einen\ 9-stelligen\ Wert\ \r\n\ @return\ Pruefziffereiner\ ISBN-10\r\n
+comment3.params=p\ q
+comment3.target=java.lang.String\ berechneNullstellen(double,\ double)
+comment3.text=\r\n\ diese\ Methode\ berechnet\ die\ Nullstellen\ einer\ quadratische\ Gleischung.\r\n\ @param\ diskriminant\ hilf\ uns\ zu\ wissen\ ob\ die\ Nullstelen\ reel,\ doppelte\ oder\ komplexe.\r\n\ return\ value\ in\ String\ type\r\n
+comment4.params=zahl
+comment4.target=boolean\ istSummeVonPotenzen(long)
+comment4.text=\r\n\ diese\ Methode\ pruft\ ob\ eine\ nat\u00FCrliche\ zahl\ kann\ als\ a4+b\u00B3+c\u00B2\ geschrieben\ weden.\r\n\ @param\ zahl\r\n
+comment5.params=zahl1\ zahl2
+comment5.target=int\ berechneGgt(int,\ int)
+comment5.text=\r\n\ Die\ Methode\ berechnet\ die\ groesten\ gemeinsamen\ Teiler\ zweier\ nat\u00FCrlische\ zahlen.\r\n\ @paran\ zahl1\ und\ zahl2.\r\n\ Wenn\ die\ \ eine\ Zahl\ gleich\ null\ ist,\ gibt\ es\ eine\ Exception.\r\n\ Null\ hat\ keine\ Teiler\r\n
+comment6.params=zahl
+comment6.target=long\ berechneFakultaet(int)
+comment6.text=\r\n\ Die\ berechnetvoneiner\ nat\u00FCrlichen\ zahl\ die\ Fakult\u00E4t.\r\n\ @param\ Zahl\r\n
+comment7.params=anzahl\ x
+comment7.target=double\ berechneReihensumme(int,\ double)
+comment7.text=\r\n\ Die\ Methode\ berechnetvon\ einer\ ganzen\ zahl\ und\ einen\ wert\ x\ eine\ mathematische\ funktion.\r\n\ @param\ anzahl\ n,\r\n\ @param\ x\r\n
+numComments=8

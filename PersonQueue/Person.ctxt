@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Person.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=vorname\ nachname
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Der\ Konstruktor\ mit\ 2\ Parametern\ versetzt\ das\ Objekt\ Person\ \ \r\n\ nach\ seiner\ Erzeugung\ in\ einen\ gueltigen\ Zustand.\r\n\ \r\n\ @param\ vorname\ \ Der\ Vorname\ einer\ Person.\r\n\ @param\ nachname\ Der\ Nachname\ einer\ Person.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getVorname()
+comment3.params=
+comment3.target=java.lang.String\ getNachname()
+comment4.params=vorname
+comment4.target=void\ setVorname(java.lang.String)
+comment4.text=\r\n\ setVorname\ Ermoeglicht\ es\ Aenderungen\ am\ Vornamen\ vorzunehmen.\r\n\ \r\n\ @param\ vorname\ \ Der\ Vorname\ einer\ Person.\r\n\ \r\n\ @throws\ Eine\ Exception\ wird\ geworfen,\ wenn\ kein\ Wert\ \r\n\ \ \ \ \ \ \ \ \ eingegeben\ wurde\ oder\ der\ Wert\ des\r\n\ \ \ \ \ \ \ \ \ Vornamens\ gleich\ null\ ist.\r\n
+comment5.params=nachname
+comment5.target=void\ setNachname(java.lang.String)
+comment5.text=\r\n\ setNachname\ Ermoeglicht\ es\ Aenderungen\ am\ Nachnamen\ vorzunehmen.\r\n\ \r\n\ @param\ nachname\ Der\ Nachname\ einer\ Person.\r\n\ \r\n\ @throws\ Eine\ Exception\ wird\ geworfen,\ wenn\ kein\ Wert\ \r\n\ \ \ \ \ \ \ \ \ eingegeben\ wurde\ oder\ der\ Wert\ des\r\n\ \ \ \ \ \ \ \ \ Nachnamens\ gleich\ null\ ist.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ Ermoeglicht\ es\ eine\ String-Repraesentation\ des\ Objekts\r\n\ \ \ \ \ \ \ \ \ \ Person\ zu\ liefern.\r\n
+numComments=7

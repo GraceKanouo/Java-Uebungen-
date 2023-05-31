@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PersonIterator
+comment0.text=\r\n\ Das\ Interface\ PersonIterator\ definiert\ Methoden\ \r\n\ zum\ Iterieren\ durch\ eine\ Liste\ von\ Personen.\r\n\ \r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou)\r\n\ @author\ \ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (01.05.23)\r\n
+comment1.params=
+comment1.target=boolean\ hasNext()
+comment1.text=\r\n\ hasNext\ Gibt\ true\ zurueck,\ wenn\ der\ Iterator\ weitere\ Elemente\ enthaelt.\r\n\ \ \ \ \ \ \ \ \ Ansonsten\ false.\r\n\ \r\n\ @return\ true,\ wenn\ der\ Iterator\ weitere\ Elemente\ enthaelt.\r\n
+comment2.params=
+comment2.target=Person\ next()
+comment2.text=\r\n\ next\ Gibt\ das\ naechste\ Person\u2212Objekt\ zurueck\r\n\ \r\n\ @return\ Das\ naechste\ Person\u2212Objekt.\r\n
+numComments=3

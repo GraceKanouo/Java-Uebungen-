@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Die\ Klasse\ repraesentiert\ eine\ Person\ mit\ Vor-\ und\ Nachnamen.\r\n\ Sie\ enthaelt\ Methoden\ zum\ Setzen\ und\ Auslesen\ der\ Attribute\ \r\n\ sowie\ zur\ Ueberpruefung\ der\ Eingaben.\r\n\ \r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou)\r\n\ @author\ \ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (01.05.23)\ \r\n
+comment1.params=vorname\ nachname
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Erzeugt\ eine\ neue\ Person.\r\n\ \r\n\ @param\ vorname\ \ Der\ Vorname\ der\ Person\r\n\ @param\ nachname\ Der\ Nachname\ der\ Person\r\n\ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ Vor-\ oder\ Nachname\ leer\ sind\ \r\n\ \ \ \ \ \ \ \ \ oder\ ungueltige\ Zeichen\ enthalten\ \ \r\n\ \ \ \ \ \ \ \ \ \r\n
+comment2.params=vorname\ nachname
+comment2.target=boolean\ istGueltigerName(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Ueberprueft,\ ob\ der\ Vor-\ und\ Nachname\ gueltige\ Zeichen\ enthaelt.\r\n\ \r\n\ @param\ vorname\ \ Der\ Vorname\ der\ Person\r\n\ @param\ nachname\ Der\ Nachname\ der\ Person\r\n\ \r\n\ @return\ true,\ wenn\ Vor-\ und\ Nachname\ gueltige\ Zeichen\ enthalten,\ \r\n\ \ \ \ \ \ \ \ \ ansonsten\ false\r\n\ \ \ \ \ \ \ \ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getVorname()
+comment4.params=
+comment4.target=java.lang.String\ getNachname()
+comment5.params=vorname
+comment5.target=void\ setVorname(java.lang.String)
+comment5.text=\r\n\ setVorname\ Ermoeglicht\ es\ Aenderungen\ am\ Vornamen\ vorzunehmen.\r\n\ \r\n\ @param\ vorname\ \ Der\ Vorname\ einer\ Person.\r\n\ \r\n\ @throws\ Eine\ Exception\ wird\ geworfen,\ wenn\ kein\ Wert\ \r\n\ \ \ \ \ \ \ \ \ eingegeben\ wurde\ oder\ der\ Wert\ des\r\n\ \ \ \ \ \ \ \ \ Vornamens\ gleich\ null\ ist.\r\n
+comment6.params=nachname
+comment6.target=void\ setNachname(java.lang.String)
+comment6.text=\r\n\ setNachname\ Ermoeglicht\ es\ Aenderungen\ am\ Nachnamen\ vorzunehmen.\r\n\ \r\n\ @param\ nachname\ Der\ Nachname\ einer\ Person.\r\n\ \r\n\ @throws\ Eine\ Exception\ wird\ geworfen,\ wenn\ kein\ Wert\ \r\n\ \ \ \ \ \ \ \ \ eingegeben\ wurde\ oder\ der\ Wert\ des\r\n\ \ \ \ \ \ \ \ \ Nachnamens\ gleich\ null\ ist.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ toString\ Ermoeglicht\ es\ eine\ String-Repraesentation\ des\ Objekts\r\n\ \ \ \ \ \ \ \ \ \ Person\ zu\ liefern.\r\n
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+numComments=9

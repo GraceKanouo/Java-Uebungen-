@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rotwein
+comment0.text=\r\n\ Die\ Klasse\ ermoeglicht\ die\ Erzeugung\ einenes\ Rotwein-Objekts.\r\n\ Ein\ Rotwein\ hat\ einen\ alkoholgehalt\ und\ ein\ weingut\ Attribut.\r\n\ Die\ Klasse\ enthaelt\ au\u00DFerdem\ eine\ ueberschriebene\ equals-Methode,\r\n\ die\ Rotweine\ anhand\ ihres\ Alkoholgehalts\ und\ Weinguts\ vergleicht.\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=Rotwein()
+comment1.text=\r\n\ Konstruktor\ ohne\ Parameter,\ der\ den\ Konstruktor\ \r\n\ der\ Oberklasse\ aufruft.\r\n
+comment2.params=alkoholgehalt\ weingut
+comment2.target=Rotwein(float,\ java.lang.String)
+comment2.text=\r\n\ Konstruktor\ mit\ Parameter\ fuer\ den\ Alkoholgehalt\ \r\n\ und\ das\ Weingut.\r\n\ \r\n\ @param\ alkoholgehalt\ Der\ Alkoholgehalt\ des\ Weins\r\n\ @param\ weingut\ \ \ \ \ \ \ Das\ Weingut\ des\ Weins\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Gibt\ eine\ String-Repraesentation\ des\ Rotweins\ zurueck.\r\n\ \r\n\ @return\ Die\ String-Repraesentation\ des\ Rotweins\r\n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5

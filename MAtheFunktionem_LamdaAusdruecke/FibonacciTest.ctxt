@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FibonacciTest
+comment0.text=\r\n\ Die\ Klasse\ tetest\ die\ Funktionalitaet\ der\ \r\n\ Fibonacci-Funktionen.\r\n\r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 22.05.23\r\n
+comment1.params=
+comment1.target=void\ testApply_fibonacciAnonym()
+comment2.params=
+comment2.target=void\ testApply_fibonacciLambda()
+numComments=3

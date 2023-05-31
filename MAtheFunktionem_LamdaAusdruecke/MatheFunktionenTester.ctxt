@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MatheFunktionenTester
+comment0.text=\r\n\ Die\ Klasse\ MatheFunktionenTester\ testet\ die\ \r\n\ Funktionalitaet\ der\ Methoden\ in\ der\ Klasse\r\n\ MatheFunktionen.\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 22.05.23\r\n
+comment1.params=
+comment1.target=void\ MatheFunktionenTester()
+comment1.text=\r\n\ Konstruktor,\ um\ zu\ verhindern,\ dass\ ein\ \r\n\ MatheFunktionenTester-Objekt\ erstellt\ \r\n\ wird.\r\n\r\n
+comment2.params=function\ start\ end
+comment2.target=void\ applyAndPrint(ConditionateInterface,\ int,\ int)
+comment2.text=\r\n\ applyAndPrint\ Soll\ eine\ uebergebene\ Funktion\ auf\ alle\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Zahlen\ zwischen\ start\ und\ end\ anwenden\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ und\ das\ Ergebnis\ ausgeben.\r\n\r\n\ @param\ function\ Eine\ Funktion\r\n\ @param\ start\ \ \ \ Der\ Startwert\r\n\ @param\ end\ \ \ \ \ \ Der\ Endwert\r\n
+comment3.params=
+comment3.target=void\ runFunctions()
+comment3.text=\r\n\ runFunctions\ Ruft\ die\ Methoden\ der\ Klasse\ MatheFunktionen\ auf\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ und\ gibt\ die\ Ergebnisse\ der\ einzelnen\ Funktionen\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ von\ 1-10\ zurueck.\r\n\r\n
+comment4.params=
+comment4.target=void\ evenAndOddTest()
+comment4.text=\r\n\ evenAndOddTest\ Testet\ die\ Funktionalitaet\ der\ Praedikate\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ even\ und\ odd.\r\n\r\n
+comment5.params=i
+comment5.target=boolean\ test(java.lang.Integer)
+comment6.params=function\ start\ end
+comment6.target=void\ testFunction(MyFunction,\ int,\ int)
+comment6.text=\r\n\ testFunction\ Soll\ eine\ uebergebene\ Funktion\ auf\ alle\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ Zahlen\ zwischen\ start\ und\ end\ anwenden\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ und\ das\ Ergebnis\ ausgeben.\r\n\r\n\ @param\ function\ Eine\ Funktion\r\n\ @param\ start\ \ \ \ Der\ Startwert\r\n\ @param\ end\ \ \ \ \ \ Der\ Endwert\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\r\n\ main\ Startet\ die\ Testmethoden\r\n
+numComments=8

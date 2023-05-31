@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=NumberCruncherTopLevelTest
+comment0.text=\r\n\ Die\ Test-Klasse\ NumberCruncherTest\ ,\ testen\ die\ Funktionalitaet\ \r\n\ der\ Methoden\ aus\ der\ Klasse\ Person.\r\n\r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou)\r\n\ @author\ \ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (01.05.23)\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment10.params=
+comment10.target=void\ testEmptyOperationsArray()
+comment11.params=
+comment11.target=void\ testNullOperationsArray()
+comment2.params=
+comment2.target=void\ testSumCruncher()
+comment3.params=
+comment3.target=void\ testSwirlCruncher()
+comment4.params=
+comment4.target=void\ testDivideCruncher()
+comment5.params=
+comment5.target=void\ testSubtractCruncher()
+comment6.params=
+comment6.target=void\ testAverageCruncher()
+comment7.params=
+comment7.target=void\ testMultipleOperations()
+comment8.params=
+comment8.target=void\ testEmptyNumbersArray()
+comment9.params=
+comment9.target=void\ testNullNumbersArray()
+numComments=12

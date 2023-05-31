@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GGTRechnerTest
+comment0.text=\r\n\ Eine\ Klasse\ zum\ Testen\ der\ Methoden\ in\ der\ GGTRechner-Klasse.\r\n\r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou\ &\ Sandra\ R.\ Hussong)\ \r\n\ @version\ (20.04.23)\r\n
+comment1.params=
+comment1.target=void\ testBerechneGgt_mit_15_und_20_erwartet_5()
+comment2.params=
+comment2.target=void\ testBerechneGgt_mit_12_und_18_erwartet_6()
+comment3.params=
+comment3.target=void\ testBerechneGgt_mit_10_und_25_erwartet_5()
+comment4.params=
+comment4.target=void\ testBerechneGgt_mit_17_und_19_erwartet_1()
+comment5.params=
+comment5.target=void\ testBerechneGgt_mit_0_und_12_erwartet_exception()
+comment6.params=
+comment6.target=void\ testBerechneGgt_mit_7_und_0_erwartet_exception()
+comment7.params=
+comment7.target=void\ testBerechneGgt_mit_minus5_und_10_erwartet_exception()
+numComments=8

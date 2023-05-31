@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PalindromInputOption
+comment0.text=\r\n\ Die\ Klasse\ \r\n\ \r\n\ @author\ (Grace\ \ D.\ Ntiwa\ Kanou)\r\n\ @author\ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (23.04.23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Die\ Methode\ main\ f\u00FChrt\ das\ Programm\ aus.\r\n\ \r\n
+comment2.params=string
+comment2.target=java.lang.String\ IgnoreCase(java.lang.String)
+numComments=3

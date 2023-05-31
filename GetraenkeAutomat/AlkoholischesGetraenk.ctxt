@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=AlkoholischesGetraenk
+comment0.text=\r\n\ Die\ Klasse\ erweitert\ die\ Klasse\ Getraenk\ und\ dient\ \r\n\ als\ Basis\ fuer\ konkrete\ Klassen\ alkoholischer\ \r\n\ Getraenke\ (Bsp.\:\ Wein,\ Bier).\r\n\ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 06.05.23\r\n
+comment1.params=
+comment1.target=AlkoholischesGetraenk()
+comment1.text=\r\n\ Konstruktor\ fuer\ ein\ alkoholischen\ Getraenks\ \r\n\ ohne\ Hersteller.\r\n
+comment2.params=alkoholgehalt
+comment2.target=AlkoholischesGetraenk(float)
+comment2.text=\r\n\ Konstruktor\ fuer\ ein\ alkoholisches\ Getraenks\ mit\ \r\n\ Angabe\ des\ Alkoholgehalts.\r\n\ \r\n\ @param\ alkoholgehalt\ Der\ Alkoholgehalt\ des\ Getraennks\r\n
+comment3.params=
+comment3.target=float\ getAlkoholgehalt()
+comment4.params=alkoholgehalt
+comment4.target=void\ setAlkoholgehalt(float)
+comment4.text=\r\n\ Setzt\ den\ Alkoholgehalt\ des\ Getraenks\ \r\n\ \r\n\ \r\n\ \ \ \ \ \ \ \ \ \r\n\ @throws\ IllegalArgumentException,\ \r\n\ \ \ \ \ \ \ \ \ wenn\ der\ uebergebene\ Alkoholgehalt\ unter\r\n\ \ \ \ \ \ \ \ \ dem\ Vergleivhswert\ EPSILON\ liegt.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Gibt\ eine\ String\ Repraesentation\ des\ alkoholischen\ \r\n\ Getraenks\ zurueck.\r\n\ \r\n\ @return\ Eine\ String-Darstellung\ des\ Getraenks,\ \r\n\ \ \ \ \ \ \ \ \ ink.\ Hersteller\ und\ dem\ Alkoholgehalt\r\n\ \ \ \ \ \ \ \ \ in\ Volumenprozent.\r\n
+numComments=6

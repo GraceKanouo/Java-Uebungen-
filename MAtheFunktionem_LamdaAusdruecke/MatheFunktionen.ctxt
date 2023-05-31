@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MatheFunktionen
+comment0.text=\r\n\ Die\ Klasse\ beinhaltet\ folgende\ mathematische\ \r\n\ Funktionen\:\ 1.\ f(x)\ \=\ x^2\r\n\ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ 2.\ f(x)\ \=\ x\!\r\n\ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ 3.\ f(x)\ \=\ x^(x+1)\r\n\ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ 4.\ f(x)\ \=\ fib(x)\r\n\ \ \ \ \r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 22.05.23\r\n
+comment1.params=i\ j\ f
+comment1.target=void\ applyAndPrint(int,\ int,\ MyFunction)
+comment1.text=\r\n\ applyAndPrint\ Soll\ eine\ uebergebene\ Funktion\ auf\ alle\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Zahlen\ zwischen\ start\ und\ end\ anwenden\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ und\ das\ Ergebnis\ ausgeben.\r\n\r\n\ @param\ f\ \ \ \ Eine\ Funktion\r\n\ @param\ i\ \ \ \ Der\ Startwert\r\n\ @param\ j\ \ \ \ Der\ Endwert\r\n
+comment2.params=i
+comment2.target=boolean\ test(java.lang.Integer)
+comment3.params=i
+comment3.target=int\ apply(int)
+comment4.params=i
+comment4.target=int\ apply(int)
+comment5.params=i
+comment5.target=int\ apply(int)
+comment6.params=i
+comment6.target=int\ apply(int)
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PalindromException
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ GGTException.\r\n\ \r\n\ @author\ \ (Grace\ D.\ Ntiwa\ Kanou\ &\ Sandra\ R.\ Hussong)\ \r\n\ @version\ (20.04.23)\r\n
+comment1.params=message
+comment1.target=PalindromException(java.lang.String)
+comment2.params=
+comment2.target=PalindromException()
+numComments=3

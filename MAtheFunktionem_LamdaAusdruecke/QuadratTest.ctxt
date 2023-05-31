@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=QuadratTest
+comment0.text=\r\n\ Die\ Klasse\ tetest\ die\ Funktionalitaet\ der\ \r\n\ Quadrat-Funktionen.\r\n\r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 22.05.23\r\n
+comment1.params=
+comment1.target=void\ testApply_quadratAnonym_mit_1_erwartet__1()
+comment2.params=
+comment2.target=void\ testApply_quadratAnonym_mit_12_erwartet__144()
+comment3.params=
+comment3.target=void\ testApply_quadratAnonym_mit_46340_erwartet__2147395600()
+comment4.params=
+comment4.target=void\ Apply_quadratAnonym_mit_46340_erwartet_Exception()
+comment5.params=
+comment5.target=void\ testApply_quadratLambda_mit_1_erwartet_1()
+comment6.params=
+comment6.target=void\ testApply_quadratLambda_mit_12_erwartet_144()
+comment7.params=
+comment7.target=void\ testApply_quadratLambda_mit_5_erwartet_25()
+comment8.params=
+comment8.target=void\ Apply_quadratLambda_mit_46340_erwartet_Exception()
+numComments=9

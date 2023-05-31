@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NumberCruncherTopLevel
+comment0.text=\r\n\ \ die\ Klasse\ NumberCrunchAnonym\ enth\u00E4alt\ Methoden\ ,um\ Reihe\ von\ Berechnungen\ auf\ einem\ gegebenen\ Array\ von\ gleichkommazahlen\ durchzufUhren.\r\n\ \ Das\ ergebnis\ jede\ Operation\ wird\ im\ Gleich\ Array\ gespechert.\ die\ Klasse\ enth\u00E4alt\ auch\ ein\ Konstructor\ der\ Array\ von\ gGleichkommmaZahlen\ erwartet\r\n\ Die\ Klasse\ ist\ Anonym\r\n\ @author\ (Sandra\ \ Hussong\ und\ Grace\ Ntiwa)\ \r\n\ @version\ (Uebung\ 15)\r\n
+comment1.params=numbers
+comment1.target=NumberCruncherTopLevel(float[])
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ NumberCrunchAnonym\r\n\ Erstellt\ eine\ NumberCruncherAnonym\ Object\ mit\ der\ ubergebene\ Float\ Array.\r\n\ @throws\ NumberKruncherException\ wenn\ das\ ubergebene\ Array\ leer\ sit\ oder\ null\ ist.\r\n
+comment2.params=operations
+comment2.target=void\ crunch(java.lang.String[])
+comment2.text=Diese\ Klasse\ fuhrt\ die\ abgegebene\ Operationen\r\n\ \ auf\ denm\ Float\ Array\ aus.\r\n\ \ Das\ ergebnis\ jeder\ Operation\ wird\ im\ gleiche\ String\ Array\ Gespeichert.\r\n\ \ \ @throws\ NumberKruncherException\ wenn\ das\ ubergebene\ Array\ von\ Operation\ leer\ sit\ oder\ null\ ist\r\n\ \ \ @return\ nichts\ zur\u00FCck.\r\n
+comment3.params=operate
+comment3.target=NumberCruncherTopLevel.CrunchOperation\ getCruncher(java.lang.String)
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=float[]\ getNumbers()
+comment4.text=Dies\ Methode\ gibt\ DAs\ Gleichkommazahlen\ Array\ zur\u00FCck,\ auf\ das\ die\ Operationen\ angewendet\ wird\r\n\ @param\ \ nichts\r\n\ @return\ ein\ float\ Array\r\n\ \r\n
+numComments=5

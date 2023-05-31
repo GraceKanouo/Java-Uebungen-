@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GetraenkeautomatException
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ GetraenkeautomatException.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=message
+comment1.target=GetraenkeautomatException(java.lang.String)
+numComments=2

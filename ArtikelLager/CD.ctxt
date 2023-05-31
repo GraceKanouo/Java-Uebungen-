@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ CD.\r\n\ \r\n\ @author\ (Grace\ Ntiwa\ Kanou\ &\ Sandra\ Hussong)\ \r\n\ @version\ (16.01.2023)\r\n
+comment1.params=artikelNr\ bestand\ preis\ interpret\ titel\ anzahlTitel
+comment1.target=CD(int,\ int,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ \r\n
+comment10.params=cdObjekt
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ getInterpret()
+comment3.params=
+comment3.target=java.lang.String\ getTitel()
+comment4.params=
+comment4.target=int\ getAnzahlTitel()
+comment5.params=
+comment5.target=java.lang.String\ getBeschreibung()
+comment6.params=interpret
+comment6.target=void\ setInterpret(java.lang.String)
+comment7.params=titel
+comment7.target=void\ setTitel(java.lang.String)
+comment7.text=\r\n\ \r\n
+comment8.params=anzahlTitel
+comment8.target=void\ setAnzahlTitel(int)
+comment8.text=\r\n\ \r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

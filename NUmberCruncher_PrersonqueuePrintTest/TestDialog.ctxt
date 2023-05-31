@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestDialog
+comment0.text=\r\nDiese\ Klasse\ ist\ eine\ interative\ test.\r\nGibt\ der\ benutzer\ den\ Auswahl\ zu\ wahlen\ wie\ die\ Zahlen\ generiert\ werden.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numbers
+comment2.target=void\ printNumbers(float[])
+comment2.text=\r\n\ diese\ Methode\ dient\ nur\ dazu,\ der\ Ergebnisse\ lesbarer\ darzustellen.\r\n\ @param\ float\ numbers\ array\r\n\ @return\ kein\ wert\r\n
+numComments=3

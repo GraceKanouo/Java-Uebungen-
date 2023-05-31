@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PalindromIterativ
+comment0.text=\r\n\ Die\ Klasse\ implementiert\ das\ Palindrom-Interface\ und\ ueberprueft,\r\n\ ob\ ein\ uebergebener\ String\ ein\ Palindrom\ ist,\ \r\n\ indem\ sie\ eine\ iterative\ Methode\ verwendet.\r\n\ \r\n\ @author\ (Grace\ \ D.\ Ntiwa\ Kanou)\r\n\ @author\ (Sandra\ R.\ Hussong)\r\n\ \r\n\ @version\ (23.04.23)\r\n
+comment1.params=wort
+comment1.target=boolean\ istPalindrom(java.lang.String)
+comment1.text=\r\n\ Zwei\ Zeiger\ werden\ auf\ den\ Anfang\ und\ das\ Ende\ des\ Strings\ gesetzt.\ \r\n\ Die\ Methode\ vergleicht\ in\ jeder\ Iteration\ das\ erste\ (i)\ und\ das\ \r\n\ letzte\ (j)\ Zeichen\ des\ Strings.\ \r\n\ \ \ \ \ \ \r\n\ @param\ wort\ Der\ zu\ ueberpruefende\ String\r\n\ \r\n\ @return\ true,\ \ wenn\ alle\ Paare\ von\ Anfang\ und\ Ende\ gleich\ sind\r\n\ @return\ false,\ wenn\ zwei\ Zeichen\ nicht\ uebereinstimmen\r\n\ \r\n
+numComments=2

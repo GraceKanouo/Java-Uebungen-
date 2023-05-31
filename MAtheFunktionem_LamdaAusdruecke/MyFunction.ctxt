@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyFunction
+comment0.text=\r\n\ Das\ Interface\ MyFunction\ definiert\ eine\ Funktion,\ \r\n\ die\ einen\ ganzzahligen\ Eingabewert\ akzeptiert.\r\n\r\n\ @author\ Grace\ D.\ Ntiwa\ Kanou\r\n\ @author\ Sandra\ R.\ Hussong\r\n\ \r\n\ @version\ 22.05.23\r\n
+comment1.params=i
+comment1.target=int\ apply(int)
+comment1.text=\r\n\ Wendet\ die\ Funktion\ auf\ den\ gegebenen\ Eingabewert\ \r\n\ an\ und\ gibt\ den\ entsprechenden\ Ausgabewert\ zurueck.\r\n\ \r\n\ @param\ i\ Der\ Eingabewert,\ auf\ den\ die\ Funktion\ \r\n\ \ \ \ \ \ \ \ \ \ angewendet\ wird\r\n
+numComments=2
